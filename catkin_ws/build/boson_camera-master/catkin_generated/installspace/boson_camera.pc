@@ -1,0 +1,8 @@
+prefix=/home/aims/catkin_ws/install
+
+Name: boson_camera
+Description: Description of boson_camera
+Version: 0.0.1
+Cflags: -I/home/aims/catkin_ws/install/include
+Libs: -L/home/aims/catkin_ws/install/lib 
+Requires: 

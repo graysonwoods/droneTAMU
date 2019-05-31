@@ -1,0 +1,2 @@
+boson_camera-master:catkin_simple-master:flir_camera_driver-kinetic-devel/flir_camera_driver:flir_camera_driver-kinetic-devel/spinnaker_camera_driver
+-DCATKIN_DEVEL_PREFIX=/home/aims/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aims/catkin_ws/install -G Unix Makefiles
